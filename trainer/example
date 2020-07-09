@@ -1,0 +1,4 @@
+execute face_training.py
+
+
+save trainer.yml 
