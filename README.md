@@ -13,4 +13,7 @@ face_traingin.py
 ~~~   
 names = ['', '', '']   
 ~~~
-학습시 원하는 사람의 이름 입력. 
+학습시 원하는 사람의 이름 입력.      
+
+
+* 참조링크 : <https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html>
